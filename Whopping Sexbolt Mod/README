@@ -1,1 +1,5 @@
+This STL is designed to raise the height of the Sexbolt housing by about 12mm or so, without requiring the use of any additional or different hardware to the original spec BOM Sexbolt. 20mm bolts should be fine.
 
+The part should screw in under the z endstop PCB using the same self tapping screws
+
+There is also an included no holes housing if you dont want to use the existing housing
